@@ -14,3 +14,11 @@ In this repository we will add several folders and files with ideas and examples
 Here in this folder [REFERENCES](https://github.com/jsot-dev/JSoT.DEV-i4L1-Device/tree/master/References) you'll find the references we are using in this project.
 
 You are welcome to participate!
+
+BOOK [Hands on Robotics with JavaScript](https://github.com/jsot-dev/JSoT.DEV-i4L1-Device/blob/master/References/Hands-On%20Robotics%20with%20JavaScript.md)
+BOOK [JavaScript on things](https://github.com/jsot-dev/JSoT.DEV-i4L1-Device/blob/master/References/JavaScript-on-things.md)
+BOOK [NODE.JS for Embedded Systems](https://github.com/jsot-dev/JSoT.DEV-i4L1-Device/blob/master/References/NodeJS%20for%20embedded%20systems.md)
+
+MORE TO COME
+
+Web ressources like Instructables and the like will be employed as needed. 
