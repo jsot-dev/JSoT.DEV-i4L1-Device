@@ -9,3 +9,8 @@ Lars Mathiasen
 
 ## Different usages
 In this repository we will add several folders and files with ideas and examples of the use of JavaScript with i4L1 devices. IoT and industrial automation principles are implied. 
+
+## References
+Here in this folder [REFERENCES](https://github.com/jsot-dev/JSoT.DEV-i4L1-Device/tree/master/References) you'll find the references we are using in this project.
+
+You are welcome to participate!
